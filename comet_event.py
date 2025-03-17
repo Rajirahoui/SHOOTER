@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 from pygame import draw, sprite
 from pygame.surface import Surface
 

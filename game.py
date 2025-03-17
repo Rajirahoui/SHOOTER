@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 from typing import List
 
 from pygame import K_LEFT, K_RIGHT
